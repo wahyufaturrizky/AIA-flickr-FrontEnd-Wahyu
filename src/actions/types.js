@@ -1,0 +1,22 @@
+export const SECTION = {
+  CHANGE: 'CHANGE_SECTION',
+  BACK: 'BACK_SECTION',
+  HOME: 'HOME_SECTION',
+  SEARCH: 'SEARCH_SECTION'
+}
+
+export const FEED = {
+  GET: 'GET_FEED',
+  SET: 'SET_FEED'
+}
+
+export const SEARCH = {
+  GET: 'GET_SEARCH',
+  SET: 'SET_SEARCH',
+  GET_MORE: 'GET_MORE_SEARCH',
+  SET_MORE: 'SET_MORE_SEARCH'
+}
+
+export const QUERY = {
+  SET: 'SET_QUERY'
+}
